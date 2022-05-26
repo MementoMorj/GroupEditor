@@ -1,0 +1,9 @@
+﻿  Circle.cpp
+  Group.cpp
+  MainForm.cpp
+  Rectangle.cpp
+  Shape.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  Circle.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  GroupEditor.vcxproj -> C:\Users\1\source\repos\GroupEditor\x64\Debug\GroupEditor.exe

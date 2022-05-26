@@ -1,0 +1,8 @@
+E:\Projects\C\GroupEditor\GroupEditor\x64\Debug\GroupEditor.vcxproj.AssemblyReference.cache
+E:\Projects\C\GroupEditor\GroupEditor\x64\Debug\GroupEditor.vcxproj.SuggestedBindingRedirects.cache
+E:\Projects\C\GroupEditor\GroupEditor\x64\Debug\GroupEditor.MainForm.resources
+E:\Projects\C\GroupEditor\GroupEditor\x64\Debug\GroupEditor.vcxproj.GenerateResource.cache
+C:\Users\1\source\repos\GroupEditor\GroupEditor\x64\Debug\GroupEditor.vcxproj.AssemblyReference.cache
+C:\Users\1\source\repos\GroupEditor\GroupEditor\x64\Debug\GroupEditor.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\1\source\repos\GroupEditor\GroupEditor\x64\Debug\GroupEditor.MainForm.resources
+C:\Users\1\source\repos\GroupEditor\GroupEditor\x64\Debug\GroupEditor.vcxproj.GenerateResource.cache

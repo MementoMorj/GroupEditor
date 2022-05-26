@@ -1,0 +1,18 @@
+﻿  Circle.cpp
+  Group.cpp
+E:\Projects\C\GroupEditor\GroupEditor\Group.h(71,20): warning C4267: -=: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Projects\C\GroupEditor\GroupEditor\Group.h(77,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "unsigned __int64"
+E:\Projects\C\GroupEditor\GroupEditor\Group.h(77,11): message : рекомендуется использовать "%zd" в строке форматирования
+E:\Projects\C\GroupEditor\GroupEditor\Group.h(77,11): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "std::wstring"
+  MainForm.cpp
+E:\Projects\C\GroupEditor\GroupEditor\Group.h(71,20): warning C4267: -=: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Projects\C\GroupEditor\GroupEditor\Group.h(77,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "unsigned __int64"
+E:\Projects\C\GroupEditor\GroupEditor\Group.h(77,11): message : рекомендуется использовать "%zd" в строке форматирования
+E:\Projects\C\GroupEditor\GroupEditor\Group.h(77,11): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "std::wstring"
+  Rectangle.cpp
+  Shape.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+E:\Projects\C\GroupEditor\GroupEditor\Group.h(81): warning C4715: Group::del: значение возвращается не при всех путях выполнения
+  Circle.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  GroupEditor.vcxproj -> E:\Projects\C\GroupEditor\x64\Release\GroupEditor.exe
